@@ -104,14 +104,7 @@
 
 </div>
 
-### 🗓 Contribution Heatmap
 
-
-<div align="center">
-<p align="center">
-  <img src="https://ghchart.rshah.org/janith1998" alt="Janith's Contribution Chart" />
-</p>
-</div>
 
 
   <div align="center">
